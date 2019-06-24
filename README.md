@@ -1,4 +1,4 @@
-# HackerRankSolutions
-This repo contains console apps that implement a solution for HackerRank algoritm problems
+# Counting Valleys
+This repo contains a console app that implements a solution for HackerRank algoritm problem Counting Valleys
 
 Navigating file structure: to view solution for CountingValleys navigate to HackerRankSolutions/CountingValleys/CountingValleys/Program.cs,
